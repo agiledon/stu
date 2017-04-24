@@ -1,6 +1,7 @@
-# Stuart
+# Stuart [![Build Status](https://travis-ci.org/agiledon/stuart.svg?branch=master)](https://travis-ci.org/agiledon/stuart) 
 
-**TODO: Add description**
+Web Spider based on Elixir, at
+[Stuart](https://github.com/agiledon/stuart.
 
 ## Installation
 
