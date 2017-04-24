@@ -1,0 +1,2 @@
+defmodule Stuart do
+end
